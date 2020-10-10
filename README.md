@@ -1,1 +1,1 @@
-# course
+# RISC-V CPU
