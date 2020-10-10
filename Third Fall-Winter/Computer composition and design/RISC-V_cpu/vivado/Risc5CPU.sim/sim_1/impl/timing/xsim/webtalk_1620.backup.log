@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sun Dec 22 15:44:52 2019
+# Process ID: 1620
+# Current directory: E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.sim/sim_1/impl/timing/xsim
+# Command line: wbtcv.exe -mode batch -source E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.sim/sim_1/impl/timing/xsim/xsim.dir/PipelineCPUTest_time_impl/webtalk/xsim_webtalk.tcl -notrace
+# Log file: E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.sim/sim_1/impl/timing/xsim/webtalk.log
+# Journal file: E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.sim/sim_1/impl/timing/xsim\webtalk.jou
+#-----------------------------------------------------------
+source E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.sim/sim_1/impl/timing/xsim/xsim.dir/PipelineCPUTest_time_impl/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-186] 'E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.sim/sim_1/impl/timing/xsim/xsim.dir/PipelineCPUTest_time_impl/webtalk/usage_statistics_ext_xsim.xml' has been successfully sent to Xilinx on Sun Dec 22 15:44:59 2019. For additional details about this file, please refer to the WebTalk help file at E:/Xlinx2018/Vivado/2017.4/doc/webtalk_introduction.html.
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:08 . Memory (MB): peak = 52.371 ; gain = 0.758
+INFO: [Common 17-206] Exiting Webtalk at Sun Dec 22 15:44:59 2019...

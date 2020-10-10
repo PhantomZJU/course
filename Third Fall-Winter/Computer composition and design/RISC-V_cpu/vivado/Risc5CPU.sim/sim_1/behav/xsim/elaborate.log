@@ -1,0 +1,50 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: E:/Xlinx2018/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto 55e7aacc0e5c48718c6c4728c2864e1e --incr --debug typical --relax --mt 2 -L dist_mem_gen_v8_0_12 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot PipelineCPUTest_behav xil_defaultlib.PipelineCPUTest xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port reset [E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/imports/PipelineCPU.srcs/PipelineCPUTest.v:32]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port reset [E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/imports/PipelineCPU.srcs/PipelineCPUTest.v:66]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port reset [E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/imports/PipelineCPU.srcs/PipelineCPUTest.v:101]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module unisims_ver.IBUF
+Compiling module unisims_ver.MMCME2_ADV(CLKFBOUT_MULT_F=10.0,...
+Compiling module unisims_ver.BUFG
+Compiling module xil_defaultlib.DCM_PLL_clk_wiz
+Compiling module xil_defaultlib.DCM_PLL
+Compiling module xil_defaultlib.button_process_unit
+Compiling module xil_defaultlib.adder
+Compiling module xil_defaultlib.adder_4bits
+Compiling module xil_defaultlib.mux
+Compiling module xil_defaultlib.adder_4bitsx2
+Compiling module xil_defaultlib.adder_32bits
+Compiling module xil_defaultlib.mux32
+Compiling module xil_defaultlib.dffre(n=32)
+Compiling module xil_defaultlib.InstructionROM
+Compiling module xil_defaultlib.IF
+Compiling module xil_defaultlib.Decode
+Compiling module xil_defaultlib.RBWRegisters
+Compiling module xil_defaultlib.Register
+Compiling module xil_defaultlib.Branch
+Compiling module xil_defaultlib.ID
+Compiling module xil_defaultlib.dffre
+Compiling module xil_defaultlib.dffre(n=4)
+Compiling module xil_defaultlib.dffre(n=2)
+Compiling module xil_defaultlib.dffre(n=5)
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.EX
+Compiling module dist_mem_gen_v8_0_12.dist_mem_gen_v8_0_12(C_FAMILY="a...
+Compiling module xil_defaultlib.DataRAM
+Compiling module xil_defaultlib.Risc5CPU
+Compiling module xil_defaultlib.syncGenarator_default
+Compiling module dist_mem_gen_v8_0_12.dist_mem_gen_v8_0_12(C_FAMILY="a...
+Compiling module xil_defaultlib.DisplayROM
+Compiling module xil_defaultlib.vga_data
+Compiling module xil_defaultlib.TMDSencode
+Compiling module unisims_ver.OBUFDS
+Compiling module xil_defaultlib.PipelineCPUTest
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot PipelineCPUTest_behav

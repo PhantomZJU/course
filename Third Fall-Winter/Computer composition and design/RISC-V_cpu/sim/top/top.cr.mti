@@ -1,0 +1,186 @@
+E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/ip/DCM_PLL/DCM_PLL_sim_netlist.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/ip/DCM_PLL/DCM_PLL_sim_netlist.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module DCM_PLL
+-- Compiling module DCM_PLL_DCM_PLL_clk_wiz
+-- Compiling module glbl
+
+Top level modules:
+	DCM_PLL
+	glbl
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/ALU.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/ALU.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/mux.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/mux.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/Risc5CPU_tb.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/Risc5CPU_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Risc5CPU_tb_v
+
+Top level modules:
+	Risc5CPU_tb_v
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/EX.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/EX.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module EX
+
+Top level modules:
+	EX
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/ID.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/ID.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ID
+
+Top level modules:
+	ID
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/imports/PipelineCPU.srcs/syncGenarator.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/imports/PipelineCPU.srcs/syncGenarator.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module syncGenarator
+
+Top level modules:
+	syncGenarator
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_4bits.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_4bits.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_4bits
+
+Top level modules:
+	adder_4bits
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_32bits.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_32bits.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_32bits
+
+Top level modules:
+	adder_32bits
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/IF.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/IF.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module IF
+
+Top level modules:
+	IF
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/dffre.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/dffre.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module dffre
+
+Top level modules:
+	dffre
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/InstructionROM.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/InstructionROM.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module InstructionROM
+
+Top level modules:
+	InstructionROM
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/imports/PipelineCPU.srcs/TMDSencode_func_synth.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/imports/PipelineCPU.srcs/TMDSencode_func_synth.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module NumberCnt
+-- Compiling module NumberCnt_2
+-- Compiling module NumberCnt_3
+-- Compiling module NumberCnt_4
+-- Compiling module NumberCnt_5
+-- Compiling module NumberCnt_6
+-- Compiling module TMDSencode
+-- Compiling module encode
+-- Compiling module encode_0
+-- Compiling module encode_1
+-- Compiling module glbl
+
+Top level modules:
+	TMDSencode
+	glbl
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/RBWRegisters.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/RBWRegisters.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module RBWRegisters
+
+Top level modules:
+	RBWRegisters
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/ip/DisplayROM/DisplayROM_sim_netlist.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/ip/DisplayROM/DisplayROM_sim_netlist.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module DisplayROM
+-- Compiling module DisplayROM_dist_mem_gen_v8_0_12
+-- Compiling module DisplayROM_dist_mem_gen_v8_0_12_synth
+-- Compiling module DisplayROM_rom
+-- Compiling module glbl
+
+Top level modules:
+	DisplayROM
+	glbl
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/Decode.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/Decode.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Decode
+
+Top level modules:
+	Decode
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/Register.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/Register.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/Branch.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/Branch.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Branch
+
+Top level modules:
+	Branch
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/Risc5CPU.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/Risc5CPU.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Risc5CPU
+
+Top level modules:
+	Risc5CPU
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/ip/DataRAM/DataRAM_sim_netlist.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/ip/DataRAM/DataRAM_sim_netlist.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module DataRAM
+-- Compiling module DataRAM_dist_mem_gen_v8_0_12
+-- Compiling module DataRAM_dist_mem_gen_v8_0_12_synth
+-- Compiling module DataRAM_spram
+-- Compiling module glbl
+
+Top level modules:
+	DataRAM
+	glbl
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_4bitsx2.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_4bitsx2.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_4bitsx2
+
+Top level modules:
+	adder_4bitsx2
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/mux32.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/mux32.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mux32
+
+Top level modules:
+	mux32
+
+} {} {}}

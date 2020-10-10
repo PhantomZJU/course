@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sun Dec 22 15:30:04 2019
+# Process ID: 784
+# Current directory: E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.sim/sim_1/synth/timing/xsim
+# Command line: wbtcv.exe -mode batch -source E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.sim/sim_1/synth/timing/xsim/xsim.dir/PipelineCPUTest_time_synth/webtalk/xsim_webtalk.tcl -notrace
+# Log file: E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.sim/sim_1/synth/timing/xsim/webtalk.log
+# Journal file: E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.sim/sim_1/synth/timing/xsim\webtalk.jou
+#-----------------------------------------------------------
+source E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.sim/sim_1/synth/timing/xsim/xsim.dir/PipelineCPUTest_time_synth/webtalk/xsim_webtalk.tcl -notrace

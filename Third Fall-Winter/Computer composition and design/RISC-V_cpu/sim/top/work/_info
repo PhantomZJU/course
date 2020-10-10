@@ -1,0 +1,865 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/codetest/Verilogtest/lab30_Risc5CPU/sim/ALU
+T_opt
+!s110 1576738379
+Vin:A@L4I_UXZ?[l0<^M1T2
+Z1 04 13 4 work Risc5CPU_tb_v fast 0
+=1-9cb6d096e869-5dfb1e4a-352-93c
+Z2 o-quiet -auto_acc_if_foreign -work work -L unisims_ver -L simprims_ver +acc
+n@_opt
+Z3 OL;O;10.4;61
+R0
+T_opt1
+!s110 1576919267
+VYj`g3O<9TmW>z60I^2;W_1
+R1
+=1-00e04c6ed80c-5dfde0e3-ae-12d8
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1577000002
+VY[GjUUTdD8J1h2nEJPiDk3
+R1
+=1-00e04c6ed80c-5dff1c42-199-26f4
+R2
+n@_opt2
+R3
+vadder
+Z4 !s110 1576999997
+!i10b 1
+!s100 3`P<^J>@]1gU74MNgWH[01
+Ig:XFJhKXlRYzOGQMZ<MXN0
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dE:/codetest/Verilogtest/lab30_Risc5CPU/sim/top
+Z7 w1573225484
+8E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder.v
+FE:/codetest/Verilogtest/lab30_Risc5CPU/src/adder.v
+L0 1
+Z8 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1576999997.172000
+!s107 E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vadder_32bits
+R4
+!i10b 1
+!s100 PJoCKhDiKTe@S0j9<7HE42
+IPc0OTZ75JOD1LZbS]3[aN1
+R5
+R6
+R7
+8E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_32bits.v
+FE:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_32bits.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1576999997.382000
+!s107 E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_32bits.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_32bits.v|
+!i113 0
+R9
+vadder_4bits
+R4
+!i10b 1
+!s100 U`Sac`aJ?^_`:i<GL]3NT1
+IX^nb;=K4h::ARcingXDoP1
+R5
+R6
+R7
+8E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_4bits.v
+FE:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_4bits.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1576999997.242000
+!s107 E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_4bits.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_4bits.v|
+!i113 0
+R9
+vadder_4bitsx2
+R4
+!i10b 1
+!s100 mfE?nXN>B;Qi_^TY1[c^I1
+IY=m5ae[V=BSM5Ao9`17AF0
+R5
+R6
+R7
+8E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_4bitsx2.v
+FE:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_4bitsx2.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1576999997.312000
+!s107 E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_4bitsx2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_4bitsx2.v|
+!i113 0
+R9
+vALU
+R4
+!i10b 1
+!s100 @JhkMZ<=RN:iJKalYn92n1
+IocWE;DE59KGB53gaR0KV<2
+R5
+R6
+w1576757677
+8E:/codetest/Verilogtest/lab30_Risc5CPU/src/ALU.v
+FE:/codetest/Verilogtest/lab30_Risc5CPU/src/ALU.v
+L0 6
+R8
+r1
+!s85 0
+31
+!s108 1576999997.442000
+!s107 E:/codetest/Verilogtest/lab30_Risc5CPU/src/ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/src/ALU.v|
+!i113 0
+R9
+n@a@l@u
+vBranch
+R4
+!i10b 1
+!s100 lWa7dFEF3UDZC2]n_Od0e1
+I9;g@X6f0V]z;<;dh:hiK:1
+R5
+R6
+w1576717504
+8E:/codetest/Verilogtest/lab30_Risc5CPU/src/Branch.v
+FE:/codetest/Verilogtest/lab30_Risc5CPU/src/Branch.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1576999997.522000
+!s107 E:/codetest/Verilogtest/lab30_Risc5CPU/src/Branch.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/src/Branch.v|
+!i113 0
+R9
+n@branch
+vDataRAM
+Z10 !s110 1576999998
+!i10b 1
+!s100 m?Rmn>V_YgYhm[?^S8:4A1
+I1@<Qd`OJAJb0>EdReg_K^2
+R5
+R6
+Z11 w1576861953
+Z12 8E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/ip/DataRAM/DataRAM_sim_netlist.v
+Z13 FE:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/ip/DataRAM/DataRAM_sim_netlist.v
+Z14 L0 17
+R8
+r1
+!s85 0
+31
+Z15 !s108 1576999998.691000
+Z16 !s107 E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/ip/DataRAM/DataRAM_sim_netlist.v|
+Z17 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/ip/DataRAM/DataRAM_sim_netlist.v|
+!i113 0
+R9
+n@data@r@a@m
+vDataRAM_dist_mem_gen_v8_0_12
+R10
+!i10b 1
+!s100 :DZc:T7m_XUJW:YbOaclI1
+I:V3:Ql^9g;e9^J[T_RAaG2
+R5
+R6
+R11
+R12
+R13
+L0 101
+R8
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 0
+R9
+n@data@r@a@m_dist_mem_gen_v8_0_12
+vDataRAM_dist_mem_gen_v8_0_12_synth
+R10
+!i10b 1
+!s100 IX1P^DU`aFLI<jJ8Y2BfK2
+I<j^<e@[17e;^z>VK:B=YT1
+R5
+R6
+R11
+R12
+R13
+L0 251
+R8
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 0
+R9
+n@data@r@a@m_dist_mem_gen_v8_0_12_synth
+vDataRAM_spram
+R10
+!i10b 1
+!s100 A>coD956T`Vc@doo2KbBC2
+IWE2nMAPo=HMP`l5L]z62n0
+R5
+R6
+R11
+R12
+R13
+L0 278
+R8
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 0
+R9
+n@data@r@a@m_spram
+vDCM_PLL
+R10
+!i10b 1
+!s100 [P5M7e;E[Qo<K0<]75^@=1
+ID[dg0FXe=8MzAdzno;`jl1
+R5
+R6
+Z18 w1576558671
+Z19 8E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/ip/DCM_PLL/DCM_PLL_sim_netlist.v
+Z20 FE:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/ip/DCM_PLL/DCM_PLL_sim_netlist.v
+L0 16
+R8
+r1
+!s85 0
+31
+Z21 !s108 1576999998.221000
+Z22 !s107 E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/ip/DCM_PLL/DCM_PLL_sim_netlist.v|
+Z23 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/ip/DCM_PLL/DCM_PLL_sim_netlist.v|
+!i113 0
+R9
+n@d@c@m_@p@l@l
+vDCM_PLL_DCM_PLL_clk_wiz
+R10
+!i10b 1
+!s100 _dlo>W?:TX1Ri5Z7;i8K42
+ImfJWelfO8IdG[XQ3oFE7W2
+R5
+R6
+R18
+R19
+R20
+L0 43
+R8
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R9
+n@d@c@m_@p@l@l_@d@c@m_@p@l@l_clk_wiz
+vDecode
+R4
+!i10b 1
+!s100 e4OdK[JRCkA2Z`>R_>6f`2
+IXbISC0N;G;`:J`zaFYh5G2
+R5
+R6
+w1576999971
+8E:/codetest/Verilogtest/lab30_Risc5CPU/src/Decode.v
+FE:/codetest/Verilogtest/lab30_Risc5CPU/src/Decode.v
+L0 5
+R8
+r1
+!s85 0
+31
+!s108 1576999997.602000
+!s107 E:/codetest/Verilogtest/lab30_Risc5CPU/src/Decode.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/src/Decode.v|
+!i113 0
+R9
+n@decode
+vdffre
+R10
+!i10b 1
+!s100 mP1H[eHJ8V:L@o@n^[z6n2
+IalQeM1VDNo?`<]N=M7@KI2
+R5
+R6
+w1576670091
+8E:/codetest/Verilogtest/lab30_Risc5CPU/src/dffre.v
+FE:/codetest/Verilogtest/lab30_Risc5CPU/src/dffre.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1576999998.511000
+!s107 E:/codetest/Verilogtest/lab30_Risc5CPU/src/dffre.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/src/dffre.v|
+!i113 0
+R9
+vDisplayROM
+R10
+!i10b 1
+!s100 gf@7S6?2:HHELQ`njcD5G0
+I]R5acZ1V7i=idFIf12dVP3
+R5
+R6
+Z24 w1576558697
+Z25 8E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/ip/DisplayROM/DisplayROM_sim_netlist.v
+Z26 FE:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/ip/DisplayROM/DisplayROM_sim_netlist.v
+R14
+R8
+r1
+!s85 0
+31
+Z27 !s108 1576999998.301000
+Z28 !s107 E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/ip/DisplayROM/DisplayROM_sim_netlist.v|
+Z29 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/ip/DisplayROM/DisplayROM_sim_netlist.v|
+!i113 0
+R9
+n@display@r@o@m
+vDisplayROM_dist_mem_gen_v8_0_12
+R10
+!i10b 1
+!s100 dd`[9;_1RJQPKNHa9mHU?2
+IJ`3]HKbHe@B8IIT0N]=d70
+R5
+R6
+R24
+R25
+R26
+L0 95
+R8
+r1
+!s85 0
+31
+R27
+R28
+R29
+!i113 0
+R9
+n@display@r@o@m_dist_mem_gen_v8_0_12
+vDisplayROM_dist_mem_gen_v8_0_12_synth
+R10
+!i10b 1
+!s100 YJID=Dm?;X<Aa?XO9klWK1
+ImZND8JBYICEFQJ^B2>VbQ0
+R5
+R6
+R24
+R25
+R26
+L0 169
+R8
+r1
+!s85 0
+31
+R27
+R28
+R29
+!i113 0
+R9
+n@display@r@o@m_dist_mem_gen_v8_0_12_synth
+vDisplayROM_rom
+R10
+!i10b 1
+!s100 0J]ROL<TmM79k[Kl[P;3E3
+ISSZTUk1O9ZSYIRK:nSFmT0
+R5
+R6
+R24
+R25
+R26
+L0 188
+R8
+r1
+!s85 0
+31
+R27
+R28
+R29
+!i113 0
+R9
+n@display@r@o@m_rom
+vencode
+R10
+!i10b 1
+!s100 SegeK_la3=K4Wz1Ce<2T=2
+IMh<l?gN3E5DD9jkk0l:aE1
+R5
+R6
+Z30 w1576672304
+Z31 8E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/imports/PipelineCPU.srcs/TMDSencode_func_synth.v
+Z32 FE:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/imports/PipelineCPU.srcs/TMDSencode_func_synth.v
+L0 4479
+R8
+r1
+!s85 0
+31
+Z33 !s108 1576999998.581000
+Z34 !s107 E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/imports/PipelineCPU.srcs/TMDSencode_func_synth.v|
+Z35 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/imports/PipelineCPU.srcs/TMDSencode_func_synth.v|
+!i113 0
+R9
+vencode_0
+R10
+!i10b 1
+!s100 Mn5`HCm=fzXHAT490RMaW3
+I[:]ac>[dU<]X1aXOm1]HH3
+R5
+R6
+R30
+R31
+R32
+L0 5000
+R8
+r1
+!s85 0
+31
+R33
+R34
+R35
+!i113 0
+R9
+vencode_1
+R10
+!i10b 1
+!s100 9hXXfF_9f]FVaN8h:Z;Hg3
+I1GHFlUJ`kfdIP3nTJT7a41
+R5
+R6
+R30
+R31
+R32
+L0 5514
+R8
+r1
+!s85 0
+31
+R33
+R34
+R35
+!i113 0
+R9
+vEX
+R4
+!i10b 1
+!s100 QGW`D1eV5Hh]LCW:VnnAB2
+Ie;gOoMbmRh;Df2Yjjk@ac2
+R5
+R6
+w1576999979
+8E:/codetest/Verilogtest/lab30_Risc5CPU/src/EX.v
+FE:/codetest/Verilogtest/lab30_Risc5CPU/src/EX.v
+L0 6
+R8
+r1
+!s85 0
+31
+!s108 1576999997.672000
+!s107 E:/codetest/Verilogtest/lab30_Risc5CPU/src/EX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/src/EX.v|
+!i113 0
+R9
+n@e@x
+vglbl
+R10
+!i10b 1
+!s100 cbl^>J=4c:SR[][<d7:H52
+I;mV>YGiaGCGk><JN0>1LF1
+R5
+R6
+R11
+R12
+R13
+L0 1038
+R8
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 0
+R9
+vID
+R4
+!i10b 1
+!s100 bIdkCFCdlF9TjJU2;@zf@3
+IXe6Szl_Zm7S8MaGmE;LMf3
+R5
+R6
+w1576999872
+8E:/codetest/Verilogtest/lab30_Risc5CPU/src/ID.v
+FE:/codetest/Verilogtest/lab30_Risc5CPU/src/ID.v
+L0 6
+R8
+r1
+!s85 0
+31
+!s108 1576999997.742000
+!s107 E:/codetest/Verilogtest/lab30_Risc5CPU/src/ID.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/src/ID.v|
+!i113 0
+R9
+n@i@d
+vIF
+R4
+!i10b 1
+!s100 Xhn7=3]ZJ>]e3jn;AMcK30
+Ib31d=NkCgl<1FbDaGWWdR0
+R5
+R6
+w1576766625
+8E:/codetest/Verilogtest/lab30_Risc5CPU/src/IF.v
+FE:/codetest/Verilogtest/lab30_Risc5CPU/src/IF.v
+L0 6
+R8
+r1
+!s85 0
+31
+!s108 1576999997.812000
+!s107 E:/codetest/Verilogtest/lab30_Risc5CPU/src/IF.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/src/IF.v|
+!i113 0
+R9
+n@i@f
+vInstructionROM
+R4
+!i10b 1
+!s100 =UZ1JTUKnzzAb`^R`]oeF2
+I?V]R<ZhN=gEE19R>WV4Dg1
+R5
+R6
+w1570776346
+8E:/codetest/Verilogtest/lab30_Risc5CPU/src/InstructionROM.v
+FE:/codetest/Verilogtest/lab30_Risc5CPU/src/InstructionROM.v
+L0 22
+R8
+r1
+!s85 0
+31
+!s108 1576999997.872000
+!s107 E:/codetest/Verilogtest/lab30_Risc5CPU/src/InstructionROM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/src/InstructionROM.v|
+!i113 0
+R9
+n@instruction@r@o@m
+vmux
+R4
+!i10b 1
+!s100 N1?h[KI^AUIXicQ?iOcjd0
+I90i`a2Ez_319>K@1B0:9G1
+R5
+R6
+w1576671441
+8E:/codetest/Verilogtest/lab30_Risc5CPU/src/mux.v
+FE:/codetest/Verilogtest/lab30_Risc5CPU/src/mux.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1576999997.941000
+!s107 E:/codetest/Verilogtest/lab30_Risc5CPU/src/mux.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/src/mux.v|
+!i113 0
+R9
+vmux32
+R10
+!i10b 1
+!s100 Hb^m`KTCa>cY9f`9;@BYM0
+I3g]N`JTOIO9f?@4CR?igO0
+R5
+R6
+w1576671611
+8E:/codetest/Verilogtest/lab30_Risc5CPU/src/mux32.v
+FE:/codetest/Verilogtest/lab30_Risc5CPU/src/mux32.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1576999998.441000
+!s107 E:/codetest/Verilogtest/lab30_Risc5CPU/src/mux32.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/src/mux32.v|
+!i113 0
+R9
+vNumberCnt
+R10
+!i10b 1
+!s100 HB[]W9RU3z@[kV<4i;VgA1
+IAFgO;?zm6YmcPld3gTk?]0
+R5
+R6
+R30
+R31
+R32
+L0 15
+R8
+r1
+!s85 0
+31
+R33
+R34
+R35
+!i113 0
+R9
+n@number@cnt
+vNumberCnt_2
+R10
+!i10b 1
+!s100 ff^1Jn6TWmdf]m^mM40m;1
+I^k?lXzMdDaUA_zHKgcC:`0
+R5
+R6
+R30
+R31
+R32
+L0 970
+R8
+r1
+!s85 0
+31
+R33
+R34
+R35
+!i113 0
+R9
+n@number@cnt_2
+vNumberCnt_3
+R10
+!i10b 1
+!s100 d0^6gaLg4<9mkhR>ZbB<61
+Ic]>309N>G;F_EW8n4?5XV2
+R5
+R6
+R30
+R31
+R32
+L0 1233
+R8
+r1
+!s85 0
+31
+R33
+R34
+R35
+!i113 0
+R9
+n@number@cnt_3
+vNumberCnt_4
+R10
+!i10b 1
+!s100 9EJQ6E4S8KKVPLj>5:<WB3
+IZX@7hIlI3C01?NaWSS<E00
+R5
+R6
+R30
+R31
+R32
+L0 2189
+R8
+r1
+!s85 0
+31
+R33
+R34
+R35
+!i113 0
+R9
+n@number@cnt_4
+vNumberCnt_5
+R10
+!i10b 1
+!s100 eLz:5IT?PQPZYJ4>Dj>W60
+ISDUXcgYiR>_]_AI<L[D_i1
+R5
+R6
+R30
+R31
+R32
+L0 2452
+R8
+r1
+!s85 0
+31
+R33
+R34
+R35
+!i113 0
+R9
+n@number@cnt_5
+vNumberCnt_6
+R10
+!i10b 1
+!s100 fOOCc];ie;9m3`88jU8_j1
+IZcJ8GODlf<Ql4VCnHlzFc1
+R5
+R6
+R30
+R31
+R32
+L0 3454
+R8
+r1
+!s85 0
+31
+R33
+R34
+R35
+!i113 0
+R9
+n@number@cnt_6
+vRBWRegisters
+R10
+!i10b 1
+!s100 E?5QCFVRgl[P=[<g7XfAi1
+I]O:3OZeLk>c3KB5FPT>N91
+R5
+R6
+w1576506865
+8E:/codetest/Verilogtest/lab30_Risc5CPU/src/RBWRegisters.v
+FE:/codetest/Verilogtest/lab30_Risc5CPU/src/RBWRegisters.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1576999998.011000
+!s107 E:/codetest/Verilogtest/lab30_Risc5CPU/src/RBWRegisters.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/src/RBWRegisters.v|
+!i113 0
+R9
+n@r@b@w@registers
+vRegister
+R10
+!i10b 1
+!s100 GNUA^GQ;Ib0QWzHiRJEVK3
+IjWR?a4;4nCEB6?zTZf<3c3
+R5
+R6
+w1576768664
+8E:/codetest/Verilogtest/lab30_Risc5CPU/src/Register.v
+FE:/codetest/Verilogtest/lab30_Risc5CPU/src/Register.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1576999998.081000
+!s107 E:/codetest/Verilogtest/lab30_Risc5CPU/src/Register.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/src/Register.v|
+!i113 0
+R9
+n@register
+vRisc5CPU
+R10
+!i10b 1
+!s100 miI4lhPSW6:if<GjDWYG60
+IBW=726H0JF1ehVR>lzX7j3
+R5
+R6
+w1576922134
+8E:/codetest/Verilogtest/lab30_Risc5CPU/src/Risc5CPU.v
+FE:/codetest/Verilogtest/lab30_Risc5CPU/src/Risc5CPU.v
+L0 6
+R8
+r1
+!s85 0
+31
+!s108 1576999998.151000
+!s107 E:/codetest/Verilogtest/lab30_Risc5CPU/src/Risc5CPU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/src/Risc5CPU.v|
+!i113 0
+R9
+n@risc5@c@p@u
+vRisc5CPU_tb_v
+R4
+!i10b 1
+!s100 5=Dc;E@Y^JW0MlkJLk4oZ0
+I]^W;nS>2o]BSa4P]`MlRz1
+R5
+R6
+w1576743874
+8E:/codetest/Verilogtest/lab30_Risc5CPU/src/Risc5CPU_tb.v
+FE:/codetest/Verilogtest/lab30_Risc5CPU/src/Risc5CPU_tb.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1576999997.102000
+!s107 E:/codetest/Verilogtest/lab30_Risc5CPU/src/Risc5CPU_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/src/Risc5CPU_tb.v|
+!i113 0
+R9
+n@risc5@c@p@u_tb_v
+vsyncGenarator
+R10
+!i10b 1
+!s100 gW:Re=j8B5bk8LGEJPk@22
+Ia3Lzg8L0;idVn1gfHWRBB3
+R5
+R6
+w1576558242
+8E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/imports/PipelineCPU.srcs/syncGenarator.v
+FE:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/imports/PipelineCPU.srcs/syncGenarator.v
+L0 5
+R8
+r1
+!s85 0
+31
+!s108 1576999998.371000
+!s107 E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/imports/PipelineCPU.srcs/syncGenarator.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/imports/PipelineCPU.srcs/syncGenarator.v|
+!i113 0
+R9
+nsync@genarator
+vTMDSencode
+R10
+!i10b 1
+!s100 =1aMVD=k@6RFJYB>XfIBA3
+I;D08P^ViWdX]o97E=H]fL1
+R5
+R6
+R30
+R31
+R32
+L0 3784
+R8
+r1
+!s85 0
+31
+R33
+R34
+R35
+!i113 0
+R9
+n@t@m@d@sencode

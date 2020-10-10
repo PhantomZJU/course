@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sun Dec 22 15:52:44 2019
+# Process ID: 5220
+# Current directory: E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.runs/impl_1
+# Command line: vivado.exe -log PipelineCPUTest.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source PipelineCPUTest.tcl -notrace
+# Log file: E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.runs/impl_1/PipelineCPUTest.vdi
+# Journal file: E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source PipelineCPUTest.tcl -notrace

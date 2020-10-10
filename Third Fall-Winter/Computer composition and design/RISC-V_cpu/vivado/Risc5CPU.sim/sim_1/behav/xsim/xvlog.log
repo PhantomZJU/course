@@ -1,0 +1,53 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/ip/DisplayROM/sim/DisplayROM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DisplayROM
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/ip/DataRAM_1/sim/DataRAM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DataRAM
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/ip/DCM_PLL/DCM_PLL_clk_wiz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DCM_PLL_clk_wiz
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/ip/DCM_PLL/DCM_PLL.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DCM_PLL
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/src/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/src/Branch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Branch
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/src/Decode.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decode
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/src/EX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EX
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/src/ID.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ID
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/src/IF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IF
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/src/InstructionROM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module InstructionROM
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/src/RBWRegisters.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RBWRegisters
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/src/Register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Register
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/src/Risc5CPU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Risc5CPU
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/imports/PipelineCPU.srcs/TMDSencode.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TMDSencode
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_32bits.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder_32bits
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_4bits.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder_4bits
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_4bitsx2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder_4bitsx2
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/imports/PipelineCPU.srcs/button_process_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module button_process_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/src/dffre.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dffre
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/src/mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/src/mux32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux32
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/imports/PipelineCPU.srcs/syncGenarator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module syncGenarator
+INFO: [VRFC 10-2458] undeclared symbol EndFrame, assumed default net type wire [E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/imports/PipelineCPU.srcs/syncGenarator.v:36]
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/imports/PipelineCPU.srcs/vga_data.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vga_data
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.srcs/sources_1/imports/PipelineCPU.srcs/PipelineCPUTest.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PipelineCPUTest

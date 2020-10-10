@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue Dec 17 12:57:27 2019
+# Process ID: 604
+# Current directory: E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.runs/DisplayROM_synth_1
+# Command line: vivado.exe -log DisplayROM.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source DisplayROM.tcl
+# Log file: E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.runs/DisplayROM_synth_1/DisplayROM.vds
+# Journal file: E:/codetest/Verilogtest/lab30_Risc5CPU/vivado/Risc5CPU.runs/DisplayROM_synth_1\vivado.jou
+#-----------------------------------------------------------
+source DisplayROM.tcl -notrace

@@ -1,0 +1,85 @@
+E:/codetest/Verilogtest/lab30_Risc5CPU/src/ID_tb.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/ID_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ID_tb
+
+Top level modules:
+	ID_tb
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/mux.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/mux.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_4bits.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_4bits.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_4bits
+
+Top level modules:
+	adder_4bits
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/ID.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/ID.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ID
+
+Top level modules:
+	ID
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_32bits.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_32bits.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_32bits
+
+Top level modules:
+	adder_32bits
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/RBWRegisters.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/RBWRegisters.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module RBWRegisters
+
+Top level modules:
+	RBWRegisters
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/Decode.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/Decode.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Decode
+
+Top level modules:
+	Decode
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/Register.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/Register.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/Branch.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/Branch.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Branch
+
+Top level modules:
+	Branch
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_4bitsx2.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_4bitsx2.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_4bitsx2
+
+Top level modules:
+	adder_4bitsx2
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/mux32.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/mux32.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mux32
+
+Top level modules:
+	mux32
+
+} {} {}}

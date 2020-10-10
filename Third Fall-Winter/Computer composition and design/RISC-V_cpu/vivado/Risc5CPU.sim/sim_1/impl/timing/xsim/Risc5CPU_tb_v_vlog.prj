@@ -1,0 +1,24 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../Risc5CPU.srcs/sources_1/ip/DCM_PLL" \
+"Risc5CPU_tb_v_time_impl.v" \
+"../../../../../../src/ALU.v" \
+"../../../../../../src/Branch.v" \
+"../../../../../../src/Decode.v" \
+"../../../../../../src/EX.v" \
+"../../../../../../src/ID.v" \
+"../../../../../../src/IF.v" \
+"../../../../../../src/InstructionROM.v" \
+"../../../../../../src/RBWRegisters.v" \
+"../../../../../../src/Register.v" \
+"../../../../../../src/Risc5CPU.v" \
+"../../../../../../src/adder.v" \
+"../../../../../../src/adder_32bits.v" \
+"../../../../../../src/adder_4bits.v" \
+"../../../../../../src/adder_4bitsx2.v" \
+"../../../../../../src/dffre.v" \
+"../../../../../../src/mux.v" \
+"../../../../../../src/mux32.v" \
+"../../../../../../src/Risc5CPU_tb.v" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,50 @@
+E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_4bits.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_4bits.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_4bits
+
+Top level modules:
+	adder_4bits
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/ALU.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/ALU.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/mux.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/mux.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_32bits.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_32bits.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_32bits
+
+Top level modules:
+	adder_32bits
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_4bitsx2.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/adder_4bitsx2.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_4bitsx2
+
+Top level modules:
+	adder_4bitsx2
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/ALU_tb.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/ALU_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ALU_tb
+
+Top level modules:
+	ALU_tb
+
+} {} {}}

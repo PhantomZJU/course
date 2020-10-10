@@ -1,0 +1,15 @@
+E:/codetest/Verilogtest/lab30_Risc5CPU/src/dffre_tb.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/dffre_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module dffre_tb_v
+
+Top level modules:
+	dffre_tb_v
+
+} {} {}} E:/codetest/Verilogtest/lab30_Risc5CPU/src/dffre.v {1 {vlog -work work -vopt -stats=none E:/codetest/Verilogtest/lab30_Risc5CPU/src/dffre.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module dffre
+
+Top level modules:
+	dffre
+
+} {} {}}
